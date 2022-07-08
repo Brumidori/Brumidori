@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brumidori
 - 👀 I’m interested in travel, different food, books, videogame
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, CSS, HTML
 - 💞️ I’m looking for a job as dev junior
 - 📫 My e-mail: brunamidoriyy@yahoo.com.br
 
