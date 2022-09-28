@@ -3,8 +3,8 @@
 
 ## Hi There!
 
-<p>Eu sou a Bruna e moro atualmente em São Paulo/SP. Em transição de carreira, sou advogada e agora também desenvolvedora full stack em formação pela Generation Brasil!</p>
-<p>Amo viagens, livros, pets, comer bem e aprender coisas novas. Estou buscando me aperfoiçoar na área de desenvolvimento de software para poder atuar como dev!</p>
+<p>Eu sou a Bruna e moro atualmente em São Paulo/SP. Em transição de carreira, sou advogada e agora também desenvolvedora full stack formada pela Generation Brasil!</p>
+<p>Amo viagens, livros, pets, comer bem e aprender coisas novas. Estou buscando me aperfoiçoar na área de desenvolvimento de software!</p>
 
 <div align="center">
   <a href="https://github.com/Brumidori">
