@@ -26,7 +26,7 @@
 <br><br>
   
 📬 Conecte-se comigo nas redes sociais: <br>
-[![LinkedIn](https://icons.iconarchive.com/icons/alecive/flatwoken/48/Apps-Linkedin-icon.png "quan-le-5932b8160")]([https://www.linkedin.com/in/vanessa-marchetti/](https://www.linkedin.com/in/bruna-midori-yassuda/))
+[![LinkedIn](https://icons.iconarchive.com/icons/alecive/flatwoken/48/Apps-Linkedin-icon.png "quan-le-5932b8160")]([https://www.linkedin.com/in/bruna-midori-yassuda/])
 
 
 <!---
