@@ -1,4 +1,4 @@
-<img align="center" justify-content="center" height="350px" width="350px" alt="GIF" src="https://i.giphy.com/l44Qqz6gO6JiVV3pu.gif"/>
+<img align="center" justifyContent="center" height="350px" width="350px" alt="GIF" src="https://i.giphy.com/l44Qqz6gO6JiVV3pu.gif"/>
 <br />
 
 ## Hi There!
