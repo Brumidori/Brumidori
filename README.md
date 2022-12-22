@@ -8,7 +8,7 @@
 <p>Eu sou a Bruna e moro atualmente em São Paulo/SP. Sou advogada e agora também desenvolvedora full stack formada pela Generation Brasil!</p>
 
 <p>Consegui meu primeiro emprego como dev e também faço um bootcamp com formação em Backend pela Ada!</p>
-<p>No momento estou estudando Java, Angular e MySQL. No futuro gostaria muito de estudar Golang, clojure e aws!</p> 
+<p>No momento estou estudando Java, Angular e MySQL. <br> No futuro pretendo estudar Golang, clojure e aws!</p> 
 <p>Amo viagens, livros, pets, comer bem e aprender coisas novas. Estou buscando me aperfoiçoar na área de desenvolvimento de software!</p>
 
 <div align="center">
