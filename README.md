@@ -14,7 +14,7 @@
 I'm Bruna and I currently live in São Paulo/SP, Brazil. I'm a lawyer and now also a full stack developer formed by Generation Brasil!
 <br>At the moment I'm studying Java, Angular and MySQL.
 <br>In the future I intend to study Golang, clojure and aws!
-<br>I love traveling, books, pets, eating well and learning new things. I'm looking to improve myself in the area of software development!
+<br>I love traveling, books, pets, discover new foods and learning new things. I'm looking to improve myself in the area of software development!
 </p>
 
 <div align="center">
