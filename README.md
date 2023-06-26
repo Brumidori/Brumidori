@@ -4,16 +4,16 @@
 <br />
 
 ## Hi There!
-<p>Eu sou a Bruna e moro atualmente em São Paulo/SP. Sou advogada e agora também desenvolvedora full stack formada pela Generation Brasil!</p>
+<p>Eu sou a Bruna e moro atualmente em São Paulo/SP. Sou advogada e agora também desenvolvedora full stack formada pela Generation Brasil e Ada Tech!</p>
 
-<p>Consegui meu primeiro emprego como dev e também faço um bootcamp com formação em Backend pela Ada!</p>
-<p>No momento estou estudando Java, Angular e MySQL. <br> No futuro pretendo estudar Golang, clojure e aws!</p> 
+<p>Já atuei como desenvolvedora em duas empresas e agora busco uma nova oportunidade!</p>
+<p>No momento estou estudando Java, Angular e MySQL. <br> No futuro pretendo estudar .Net, clojure e aws!</p> 
 <p>Amo viagens, livros, pets, comer bem e aprender coisas novas. Estou buscando me aperfoiçoar na área de desenvolvimento de software!</p>
 <hr>
 <p>
-I'm Bruna and I currently live in São Paulo/SP, Brazil. I'm a lawyer and now also a full stack developer formed by Generation Brasil!
+I'm Bruna and I currently live in São Paulo/SP, Brazil. I'm a lawyer and now also a full stack developer formed by Generation Brasil and Ada Tech!
 <br>At the moment I'm studying Java, Angular and MySQL.
-<br>In the future I intend to study Golang, clojure and aws!
+<br>In the future I intend to study .Net, clojure and aws!
 <br>I love traveling, books, pets, discover new foods and learning new things. I'm looking to improve myself in the area of software development!
 </p>
 
