@@ -12,7 +12,7 @@
 <hr>
 <p>
 I'm Bruna and I currently live in São Paulo/SP, Brazil. I'm a lawyer and now also a full stack developer formed by Generation Brasil and Ada Tech!
-<br>At the moment I'm studying Java, Angular and MySQL.
+<br>At the moment I'm studying Java, React and MySQL.
 <br>In the future I intend to study .Net, clojure and aws!
 <br>I love traveling, books, pets, discover new foods and learning new things. I'm looking to improve myself in the area of software development!
 </p>
